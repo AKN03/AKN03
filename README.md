@@ -6,6 +6,7 @@
 
 | Repository Name | Language | Description |
 |-----------------|----------|-------------|
+| AutomaticPromptOptimizer             | Python      | Bachelor thesis about Automatic Prompt Optimalization|
 | IMS             | C++      | Information systems project. |
 | IIS             | PHP      | Web development project using PHP. |
 | ISA             | C++      | Network and system programming. |
