@@ -38,5 +38,3 @@
 | Espor               | HTML     | An esports-focused web project. |
 | SOLANA              | HTML     | Experiments with Solana blockchain frontend. |
 | Sudoku          | C        | Console-based Sudoku game. |
-| AK03.github.io      | HTML     | Personal portfolio / GitHub Pages site. |
-| AKN03               | -        | Profile or meta repository. |
